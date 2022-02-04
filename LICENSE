@@ -1,10 +1,14 @@
-radicle-link is Copyright © 2019-2021
-The Radicle Foundation <hello@radicle.foundation>
+radicle-link
+Copyright © 2019-2021 The Radicle Foundation <hello@radicle.foundation>
+Copyright © 2019-2021 The Radicle Link Contributors
+<https://github.com/radicle-dev/radicle-link/graphs/contributors>
 
 radicle-link is licensed under version 3 of the GNU General Public License
-(GPLv3) with the Radicle Linking Exception. Any contribution to
-radicle-link must be made subject to the Developer Certificate of Origin
-(DCO).
+(GPLv3) sometimes with the Radicle Linking Exception. The Radicle Linking
+Exception only applies to released created by the Radicle Foundation. At
+the moment, there is no defined process for how the Radicle Foundation
+would make releases of radicle-link. Any contribution to radicle-link must
+be made subject to the Developer Certificate of Origin (DCO).
 
 By making your contribution, you are (1) making the declaration set out in
 the Linux Foundation’s Developer Certificate of Origin version 1.1, in
