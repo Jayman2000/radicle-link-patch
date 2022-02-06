@@ -2,8 +2,8 @@
 
 Radicle Link is an experimental protocol for peer-to-peer code collaboration.
 
-[![ci](https://github.com/radicle-dev/radicle-link/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/radicle-dev/radicle-link/actions/workflows/ci.yaml)
-[![sr.ht](https://builds.sr.ht/~radicle-link/radicle-link.svg)](https://builds.sr.ht/~radicle-link/radicle-link/?)
+[![Is the GitHub Action named “ci” succeeding?](https://github.com/radicle-dev/radicle-link/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/radicle-dev/radicle-link/actions/workflows/ci.yaml)
+[![Is radicle-link successfully building on sourcehut?](https://builds.sr.ht/~radicle-link/radicle-link.svg)](https://builds.sr.ht/~radicle-link/radicle-link/?)
 
 To receive updates about the project, subscribe to the announcements mailing
 ([archives][annml]) list by sending an empty email to:
