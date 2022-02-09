@@ -2,8 +2,6 @@ image: archlinux
 packages:
   - cmake
   - rustup
-sources:
-  - https://git.sr.ht/~radicle-link/radicle-link
 tasks:
   - setup: |
       rustup toolchain install stable nightly \
